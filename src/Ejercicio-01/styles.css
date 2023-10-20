@@ -1,0 +1,12 @@
+p {
+    background-color: red;
+}
+
+.destacado {
+    border: 3px solid rgb(0, 0, 0);
+    background-color: aqua;
+}
+
+#parrafo-grande {
+    font-size: 2rem;
+}
