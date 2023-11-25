@@ -1,0 +1,15 @@
+.container {
+    background-color: saddlebrown;
+    padding: 1rem;
+}
+
+.list-container  {
+    background-color: aqua;
+}
+
+.list-container li {
+    background-color: tomato;
+    color: red;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
