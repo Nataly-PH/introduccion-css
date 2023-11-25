@@ -1,12 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 p {
     background-color: red;
+}
+
+
+#parrafo-grande {
+    font-size: 2rem;
+    background-color: green;
 }
 
 .destacado {
     border: 3px solid rgb(0, 0, 0);
     background-color: aqua;
-}
-
-#parrafo-grande {
-    font-size: 2rem;
 }
